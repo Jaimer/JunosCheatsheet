@@ -1,0 +1,5 @@
+# Iniciar sesión de root
+start shell user root
+
+# Login al otro miembro
+rlogin -T node1
